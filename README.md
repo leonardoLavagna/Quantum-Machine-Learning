@@ -3,5 +3,4 @@
 
 In this repository are collected materials and scripts I'm using to study and practice Quantum Machine Learning, with a focus on the famous QAOA class of algorithms. 
 
-### What's in here?
-.... still empty, work in progress!
+
